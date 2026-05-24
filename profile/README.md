@@ -7,7 +7,7 @@ We develop high-throughput, deterministic security frameworks and low-level dete
 
 ### ⚙️ Active Ecosystem
 - **Vortex DFS:** Detection Fidelity Score framework for real-time telemetry validation.
-- **Vortex Shield:** Low-latency active defense gates.
-- **Quantum Vulnerability Scanner:** Proactive core auditing.
+- **Vortex Shield:** Low-latency active defense gates. [Enterprise - Private Binary]
+- **Quantum Vulnerability Scanner:** Proactive core auditing. [Enterprise - Private Binary]
 
 *Securing the autonomous agent era without compromising on performance.*
