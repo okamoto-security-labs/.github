@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://img.shields.io/github/actions/workflow/status/okamoto-security-labs/DFS-SDK-OPEN/vortex-security.yml?branch=main&label=TESTS&style=for-the-badge&color=2ea44f&logo=github" alt="Tests Status">
+  <img src="https://img.shields.io/badge/LICENSE-MIT-9cf?style=for-the-badge&color=a4a61d" alt="License MIT">
+  <img src="https://img.shields.io/badge/JOIN-THE%20COMMUNITY-purple?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Community">
+</p>
+
+---
+
 ## 🔬 Active Research: Zero-Overhead AI Telemetry Gating
 
 We are currently stabilizing the **Vortex DFS Core**, a hardware-aligned validation layer designed to compute deterministic fidelity scores for real-time, asynchronous AI Agent streams. 
